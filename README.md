@@ -10,3 +10,5 @@ Input:
 
 Output
    simple interest = p*t*r
+fot it 
+to work
